@@ -1,0 +1,28 @@
+{
+  "name": "age_calculater-pk",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "age.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "GHULAM RAUF KHAN",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/figlet": "^1.5.8",
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "chalk-animation": "^2.0.3",
+    "date-fns": "^3.6.0",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.2.23"
+  }
+}
